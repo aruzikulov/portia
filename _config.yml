@@ -1,0 +1,65 @@
+url: https://portioxyz.github.io
+baseurl:
+
+# Site settings
+title: Portio
+email: ruzikulov@gmail.com
+description: "Portio is new platform for job hunters"
+
+
+# Team names, titles and social links
+people:
+- name: FireMoonStar
+  pic: 2
+  position: CEO & Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Ahmad John
+  pic: 2
+  position: CTO & Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Alice
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/portio
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/portio
+  - title: bitbucket 
+    url: http://bitbucket.org/portio
+  - title: github
+    url: http://github.com/portio
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: HUST
+  - line: Wuhan, Hubei, China
+
+# Build settings
+markdown: kramdown
+permalink: pretty
