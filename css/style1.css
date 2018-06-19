@@ -1,3 +1,9 @@
+@media only screen and (min-width: 1170px) {
+  .cd-is-hidden {
+    visibility: hidden;
+  }
+}
+
 .cd-timeline {
   overflow: hidden;
   margin: 2em auto;
