@@ -240,9 +240,22 @@ header.masthead .intro-text .intro-heading {
   font-size: 3em;  
 }
 
+#roadmap {
+  
+  background-image: url('img/net-bg.svg');
+  background-repeat: no-repeat;
+  background-position: top; 
+}
+
 #whitepaper {
   margin: 0;
   text-transform: none;
+  background-image: url('img/net-bg.svg');
+  background-repeat: no-repeat;
+  background-position: top; 
+}
+
+#team {
   background-image: url('img/net-bg.svg');
   background-repeat: no-repeat;
   background-position: top; 
