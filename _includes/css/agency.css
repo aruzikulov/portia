@@ -229,6 +229,13 @@ header.masthead .intro-text .intro-heading {
   text-transform: none;
 }
 
+#about {
+  text-transform: none;
+  background-image: url('img/net-bg.svg');
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
 #icon-boxes .fa {
   font-size: 3em;  
 }
@@ -236,7 +243,7 @@ header.masthead .intro-text .intro-heading {
 #whitepaper {
   margin: 0;
   text-transform: none;
-  background-image: url('img/footer-bg.svg');
+  background-image: url('img/net-bg.svg');
   background-repeat: no-repeat;
   background-position: top; 
 }
