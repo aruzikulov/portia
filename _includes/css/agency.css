@@ -235,6 +235,14 @@ header.masthead .intro-text .intro-heading {
   font-size: 3em;  
 }
 
+#icon-boxes .fas {
+  font-size: 3em;  
+}
+
+#icon-boxes .fab {
+  font-size: 3em;  
+}
+
 #roadmap {
   
   background-image: url('img/net-bg.svg');
